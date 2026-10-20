@@ -403,7 +403,7 @@
 
             // =========================================================================
             // GANTI URL DI BAWAH INI DENGAN URL WEB APP GOOGLE SCRIPT ANDA!
-            let gasURL = "URL_GOOGLE_APPS_SCRIPT_ANDA_DISINI"; 
+            let gasURL = "https://www.appsheet.com/start/72b144b3-9524-4965-9649-7f9aea672ee2?platform=desktop#appName=PenilaianSistemSaraf-377285758&vss=H4sIAAAAAAAAA7WQuw7CMAxFfyXy3C_IipCoeCxFLITBNI6ISJMqSYEqyr-T8hArA4w-ls69doKLpmsTsT0D36fPtKQROCQB27EnAVzAzNnonRFQCdhg94QLDNqwFUZ9QssaHSJ1rEGPiskCais9CsiQD9XbHSkAT79T8_-1rkBLslErTX7KmazF_3KW9WQs4Bsf5Aq6IeLR0OMJxZdzYcq1QyC5Kyf8uHqo7fzWo5VrJ0ucQhMo3wH1YYoO8QEAAA==&view=Hasil%20Latihan%20Sistem%20Saraf%20dan%20Indra"; 
             // =========================================================================
 
             document.body.style.cursor = 'wait';
